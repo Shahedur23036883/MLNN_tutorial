@@ -1,9 +1,9 @@
 # Understanding Activation Functions in Deep Learning
 
-*Description*:  
+## Description:  
 This tutorial provides an in-depth exploration of activation functions in neural networks, focusing on ReLU, Leaky ReLU, and ELU. It includes theoretical insights, practical implementations, and visualizations using the Fashion-MNIST dataset.
 
-*Features*:
+## Feature:
 1. Theoretical explanation of ReLU, Leaky ReLU, and ELU with references.
 2. Dataset preprocessing for Fashion-MNIST.
 3. Model implementation with each activation function.
@@ -11,7 +11,7 @@ This tutorial provides an in-depth exploration of activation functions in neural
 5. Observations and recommendations for using activation functions.
 
 
-*Setup Instructions*:
+# Setup Instructions:
 1. Clone the repository.
 2. Install required packages:
    bash
