@@ -22,3 +22,6 @@ This tutorial provides an in-depth exploration of activation functions in neural
    jupyter notebook activation_functions_tutorial.ipynb
    
 4. Run each cell sequentially to execute the code and generate visualizations.
+
+# LICENSE
+See `LICENSE.txt`
