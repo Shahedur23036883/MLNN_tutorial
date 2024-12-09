@@ -1,0 +1,5 @@
+This project is free to use for everyone. You are permitted to copy, modify, and distribute the materials in this repository for any purpose, personal or commercial, without any restrictions.
+
+No warranty is provided, and the author is not responsible for any issues or damages that may arise from the use of this material.
+
+Enjoy learning and building!
