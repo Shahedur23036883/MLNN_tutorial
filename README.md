@@ -15,13 +15,17 @@ This tutorial provides an in-depth exploration of activation functions in neural
 1. Clone the repository.
 2. Install required packages:
    bash
+   ```
    pip install tensorflow matplotlib numpy
+   ```
    
-3. Open the Jupyter Notebook:
+4. Open the Jupyter Notebook:
    bash
+   ```
    jupyter notebook activation_functions_tutorial.ipynb
+   ```
    
-4. Run each cell sequentially to execute the code and generate visualizations.
+6. Run each cell sequentially to execute the code and generate visualizations.
 
 # LICENSE
 See `LICENSE.txt`
